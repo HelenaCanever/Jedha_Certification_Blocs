@@ -1,1 +1,4 @@
-"Bloc#4 Disaster Tweets"
+## Bloc#4 Disaster Tweets
+
+### Contact: helena.canever@gmail.com
+### Video link: 
