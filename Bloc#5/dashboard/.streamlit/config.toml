@@ -1,0 +1,12 @@
+[browser]
+serverAddress = '0.0.0.0'
+
+[global]
+dataFrameSerialization = "legacy"
+
+[theme]
+base="light"
+primaryColor="#b01aa7"
+backgroundColor="#f1f1f4"
+textColor="#0f0429"
+font="serif"
