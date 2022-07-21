@@ -5,7 +5,7 @@
 
 ### Data:
 Training data for the Deepfake deeplearning model consists of:
-- 401 sample videos (77 real and 323 deepfakes) from the [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge/data?select=train_sample_videos) 
+- 400 sample videos (77 real and 323 deepfakes) from the [Kaggle Deepfake Detection Challenge](https://www.kaggle.com/competitions/deepfake-detection-challenge/data?select=train_sample_videos) 
 - 890 Real celebrity and youtube videos from [Celeb-DF-v2](https://github.com/yuezunli/celeb-deepfakeforensics) 
 - 795 Deepfake celebrity videos from [Celeb-DF-v1](https://github.com/yuezunli/celeb-deepfakeforensics)  
 
