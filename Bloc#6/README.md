@@ -11,5 +11,9 @@ Training data for the Deepfake deeplearning model consists of:
 
 **The final database, after preprocessing, contains 1091 Deepfake videos and 954 real videos.**
 
-Both the Celeb-DF-v1 and Celeb-DF-v2 datasets are available upon request by completing a form.Credits for the Celeb-DF datasets go to: *Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu, Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics, IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020*
+Samples are provided for preprocessing testing:
+- train_sample_video.zip
+- Celeb-DF_sample-zip
+
+Both the Celeb-DF-v1 and Celeb-DF-v2 datasets are available upon request by completing a form. Credits for the Celeb-DF datasets go to: *Yuezun Li, Xin Yang, Pu Sun, Honggang Qi and Siwei Lyu, Celeb-DF: A Large-scale Challenging Dataset for DeepFake Forensics, IEEE Conference on Computer Vision and Patten Recognition (CVPR), 2020*
 
