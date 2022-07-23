@@ -6,7 +6,7 @@
 ### Video link:
 ### Deliverables:
   - Dashboard : https://getarounddashboardhc.herokuapp.com/
-  - MLFlow Server: https://getaroundflow.herokuapp.com/
+  - MLFlow Server: https://mlflowhc.herokuapp.com/
   - API : https://getaroundapi.herokuapp.com/
 
 ### API Predict
